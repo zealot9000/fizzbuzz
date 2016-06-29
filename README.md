@@ -1,4 +1,6 @@
-# Fizzbuzz
+[![Gem Version](https://badge.fury.io/rb/fizzbuzz_zealot9000.svg)](https://badge.fury.io/rb/fizzbuzz_zealot9000)
+
+# Fizzbuzz-gem
 
 It becomes easier - to play FizzBuzz right now.
 
